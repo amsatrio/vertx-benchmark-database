@@ -1,0 +1,7 @@
+@base_url=http://localhost:8888
+
+### get
+GET {{base_url}}
+
+### get
+GET {{base_url}}/api/conditions
